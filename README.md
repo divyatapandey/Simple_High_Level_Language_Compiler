@@ -25,7 +25,7 @@ This project is a mini compiler implemented in C++ that simulates the core funct
   LOAD 10
   STORE a
   IF a == 10 THEN
-###How It Works
+### How It Works
 Input Source Code:
 ```bash
 int a;
